@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1730492639 source:c:\users\cristi\desktop\tema1\tema1part2\tema1part2\main.cpp
+	<iostream>
+	<string>
+	"masina.h"
+
+1730491777 source:c:\users\cristi\desktop\tema1\tema1part2\tema1part2\masina.cpp
+	<iostream>
+	"masina.h"
+
+1730492824 c:\users\cristi\desktop\tema1\tema1part2\tema1part2\masina.h
+	<string>
+
