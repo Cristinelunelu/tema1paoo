@@ -1,0 +1,5 @@
+C:/Users/Cristi/Desktop/tema1/tema1part2/tema1part2/build/CMakeFiles/Auto.dir
+C:/Users/Cristi/Desktop/tema1/tema1part2/tema1part2/build/CMakeFiles/package.dir
+C:/Users/Cristi/Desktop/tema1/tema1part2/tema1part2/build/CMakeFiles/package_source.dir
+C:/Users/Cristi/Desktop/tema1/tema1part2/tema1part2/build/CMakeFiles/edit_cache.dir
+C:/Users/Cristi/Desktop/tema1/tema1part2/tema1part2/build/CMakeFiles/rebuild_cache.dir
