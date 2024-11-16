@@ -1,0 +1,5 @@
+/home/cristi/Downloads/tema1paoo-main/tema2/build/CMakeFiles/edit_cache.dir
+/home/cristi/Downloads/tema1paoo-main/tema2/build/CMakeFiles/rebuild_cache.dir
+/home/cristi/Downloads/tema1paoo-main/tema2/build/CMakeFiles/package.dir
+/home/cristi/Downloads/tema1paoo-main/tema2/build/CMakeFiles/package_source.dir
+/home/cristi/Downloads/tema1paoo-main/tema2/build/CMakeFiles/Auto.dir
