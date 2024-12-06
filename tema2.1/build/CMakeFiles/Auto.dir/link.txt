@@ -1,0 +1,3 @@
+D:\Kituri\Cmake\bin\cmake.exe -E rm -f CMakeFiles\Auto.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\Auto.dir/objects.a @CMakeFiles\Auto.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Auto.dir/objects.a -Wl,--no-whole-archive -o Auto.exe -Wl,--out-implib,libAuto.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Auto.dir\linkLibs.rsp
