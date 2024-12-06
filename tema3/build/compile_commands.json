@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/Cristi/Desktop/tema3/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++1z -o CMakeFiles\\Auto.dir\\main.cpp.obj -c C:\\Users\\Cristi\\Desktop\\tema3\\main.cpp",
+  "file": "C:/Users/Cristi/Desktop/tema3/main.cpp",
+  "output": "CMakeFiles/Auto.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Cristi/Desktop/tema3/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++1z -o CMakeFiles\\Auto.dir\\masina.cpp.obj -c C:\\Users\\Cristi\\Desktop\\tema3\\masina.cpp",
+  "file": "C:/Users/Cristi/Desktop/tema3/masina.cpp",
+  "output": "CMakeFiles/Auto.dir/masina.cpp.obj"
+}
+]
